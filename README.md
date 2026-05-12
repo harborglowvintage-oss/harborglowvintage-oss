@@ -14,6 +14,6 @@
 
 <p align="center">
   <img src="./assets/spacer50.png" alt="" width="50" align="left" />
-  <a href="https://www.aspca.org/" title="Adopt, don't shop — ASPCA"><img src="./assets/maple_glow.svg" alt="Maple" title="Maple — hi! (click for ASPCA)" width="50" align="right" /></a>
+  <a href="https://www.aspca.org/" title="Adopt, don't shop — ASPCA"><img src="./assets/maple.png" alt="Maple" title="Maple — hi! (click for ASPCA)" width="50" align="right" /></a>
   <img src="./assets/footer_v4.svg" alt="MIT licensed · no scripts · no trackers" height="11" />
 </p>

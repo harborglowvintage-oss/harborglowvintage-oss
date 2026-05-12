@@ -15,5 +15,5 @@
 <p align="center">
   <img src="./assets/spacer50.png" alt="" width="50" align="left" />
   <a href="https://www.aspca.org/" title="Hi- I'm Maple | Support your local ASPCA"><img src="./assets/maple.png" alt="Hi- I'm Maple | Support your local ASPCA" title="Hi- I'm Maple | Support your local ASPCA" width="50" align="right" /></a>
-  <img src="./assets/footer_v4.svg" alt="MIT licensed · no scripts · no trackers" height="11" />
+  <img src="./assets/footer_v4.svg" alt="MIT licensed · no scripts · no trackers" height="12" />
 </p>

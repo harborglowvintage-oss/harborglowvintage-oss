@@ -13,3 +13,7 @@
 </p>
 
 <p align="center"><sub>MIT licensed · no scripts · no trackers</sub></p>
+
+<p align="right">
+  <img src="./assets/maple.webp" alt="Maple peeking in" title="Maple" width="96" />
+</p>

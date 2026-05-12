@@ -8,5 +8,4 @@
   </a>
 </p>
 
-
-<sub>banner: pure SVG, parallax-scrolled pixel-art waveform · respects <code>prefers-reduced-motion</code> · no scripts, no trackers · MIT licensed</sub>
+<p align="center"><sub>MIT licensed · no scripts · no trackers</sub></p>

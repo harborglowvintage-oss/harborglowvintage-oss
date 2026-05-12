@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://llmadvisor.ai">
-    <img src="./assets/llmadvisor_v3.svg" alt="llmadvisor.ai — Boutique AI Edge Compute Lab" width="216" />
+    <img src="./assets/llmadvisor_panel_v1.png" alt="llmadvisor.ai — Boutique AI Edge Compute Lab" width="504" />
   </a>
 </p>
 

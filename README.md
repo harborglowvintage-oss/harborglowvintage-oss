@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://llmadvisor.ai" style="font-family:'Press Start 2P',monospace;font-size:13px;color:#39ff14;text-decoration:none;">llmadvisor.ai</a>
+  <a href="https://llmadvisor.ai">
+    <img src="./assets/llmadvisor_tag.svg" alt="llmadvisor.ai — Boutique AI Edge Compute Lab" width="540" />
+  </a>
 </p>
-
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"/>
 
 
 <sub>banner: pure SVG, parallax-scrolled pixel-art waveform · respects <code>prefers-reduced-motion</code> · no scripts, no trackers · MIT licensed</sub>

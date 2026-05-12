@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 540 80" width="540" height="80"
+     viewBox="0 0 540 80" width="432" height="64"
      role="img" aria-label="llmadvisor.ai">
   <defs>
     <style>
@@ -67,6 +67,4 @@
   <text x="270" y="48" text-anchor="middle" class="glow">llmadvisor.ai</text>
   <!-- main white text -->
   <text x="270" y="48" text-anchor="middle" class="tag">llmadvisor.ai</text>
-  <!-- orange subtitle -->
-  <text x="270" y="66" text-anchor="middle" class="sub">BOUTIQUE AI EDGE COMPUTE LAB</text>
 </svg>

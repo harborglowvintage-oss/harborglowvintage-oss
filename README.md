@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://llmadvisor.ai">
-    <img src="./assets/llmadvisor_panel_v3.png" alt="llmadvisor.ai — Boutique AI Edge Compute Lab" width="280" />
+  <a href="https://llmadvisor.ai" title="llmadvisor.ai — Boutique AI Edge Compute Lab">
+    <img src="./assets/llmadvisor_panel_v3.png" alt="llmadvisor.ai — Boutique AI Edge Compute Lab" title="llmadvisor.ai — Boutique AI Edge Compute Lab" width="280" />
   </a>
 </p>
 
